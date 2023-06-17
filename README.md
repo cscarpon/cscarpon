@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cscarpon
 - 👀 I’m interested in geospatial data science
-- 🌱 I’m currently learning  CNNs and Python
+- 🌱 i am currently learning RShiny to implement local open source applications.
 - 📫 @Ecoscarps (Twitter)
 
 <!---
